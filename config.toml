@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://coastalwhite.github.io/zola-tailwind"
+base_url = "https://notmatthew.io"
 
-title = "Example Website"
-description = "Lipsum Ipsum"
+title = "notmatthew.io"
+description = "You have not found matthew's homepage"
 
 default_language = "en"
 
@@ -14,4 +14,4 @@ highlight_code = false
 
 [extra]
 keywords = ["put", "your", "pagewide", "keywords", "here"]
-author = "John Doe"
+author = "Matthew Baltrusitis"
